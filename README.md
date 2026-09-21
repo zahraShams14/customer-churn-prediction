@@ -1,2 +1,27 @@
-# customer-churn-prediction
-Design and Implementation of Customer Churn Analysis and Prediction System using Data Mining and Machine Learning
+# Customer Churn Prediction
+
+## اطلاعات پروژه
+- **دانشجو:** زهرا شمسعلی
+- **رشته:** نرم‌افزار - کاردانی
+- **استاد راهنما:** دکتر نیلوفر سروی‌نیا
+- **نوع پروژه:** کاربردی - تحقیقاتی
+
+## عنوان
+طراحی و پیاده‌سازی سامانه تحلیل و پیش‌بینی ریزش مشتریان با استفاده از داده‌کاوی و یادگیری ماشین
+
+## هدف پروژه
+تحلیل رفتار مشتریان به منظور شناسایی الگوهای مرتبط با ریزش و پیش‌بینی احتمال ریزش با استفاده از الگوریتم‌های یادگیری ماشین.
+
+## دیتاست
+IBM Telco Customer Churn
+
+## تکنولوژی‌ها
+- Python
+- Google Colab
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Microsoft Power BI Desktop
+
+## وضعیت پروژه
+در حال انجام
